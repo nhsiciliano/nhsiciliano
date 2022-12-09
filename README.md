@@ -1,5 +1,5 @@
-                                                        **Hi 👋, I am Nicolas Siciliano**
-                                                    **A Front-End Developer from Argentina**
+      Hi 👋, I am Nicolas Siciliano
+      A Front-End Developer from Argentina
 
 - 👀 I’m currently working on something great =)
 - 🌱 I’m currently learning to become a Full Stack Engineer!
